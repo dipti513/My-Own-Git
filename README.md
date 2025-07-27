@@ -70,14 +70,14 @@ java -cp ..\My-Own-Git MyGit log
 ```
 
 ##🧠 Key Learnings
-🔐 SHA-1 Hashing for content tracking
-📦 Java Object Serialization for storing Git-like objects
-📁 File I/O using java.nio.file
-🌳 Tree/Commit Graph structures
+-🔐 SHA-1 Hashing for content tracking
+-📦 Java Object Serialization for storing Git-like objects
+-📁 File I/O using java.nio.file
+-🌳 Tree/Commit Graph structures
 
 ##✨ Future Improvements
 -status — View staging and working directory status
 -checkout — Switch between commits or branches
 -branch — Create and manage branches
 -diff — View differences between file versions
--🗂️ Add recursive directory support
+--🗂️ Add recursive directory support
